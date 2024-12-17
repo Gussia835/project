@@ -1,0 +1,15 @@
+C:\Users\Dimc\Desktop\Project\Ferm\bin\Debug\net7.0\Ferm.exe
+C:\Users\Dimc\Desktop\Project\Ferm\bin\Debug\net7.0\Ferm.deps.json
+C:\Users\Dimc\Desktop\Project\Ferm\bin\Debug\net7.0\Ferm.runtimeconfig.json
+C:\Users\Dimc\Desktop\Project\Ferm\bin\Debug\net7.0\Ferm.dll
+C:\Users\Dimc\Desktop\Project\Ferm\bin\Debug\net7.0\Ferm.pdb
+C:\Users\Dimc\Desktop\Project\Ferm\obj\Debug\net7.0\Ferm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimc\Desktop\Project\Ferm\obj\Debug\net7.0\Ferm.AssemblyInfoInputs.cache
+C:\Users\Dimc\Desktop\Project\Ferm\obj\Debug\net7.0\Ferm.AssemblyInfo.cs
+C:\Users\Dimc\Desktop\Project\Ferm\obj\Debug\net7.0\Ferm.csproj.CoreCompileInputs.cache
+C:\Users\Dimc\Desktop\Project\Ferm\obj\Debug\net7.0\Ferm.sourcelink.json
+C:\Users\Dimc\Desktop\Project\Ferm\obj\Debug\net7.0\Ferm.dll
+C:\Users\Dimc\Desktop\Project\Ferm\obj\Debug\net7.0\refint\Ferm.dll
+C:\Users\Dimc\Desktop\Project\Ferm\obj\Debug\net7.0\Ferm.pdb
+C:\Users\Dimc\Desktop\Project\Ferm\obj\Debug\net7.0\Ferm.genruntimeconfig.cache
+C:\Users\Dimc\Desktop\Project\Ferm\obj\Debug\net7.0\ref\Ferm.dll
