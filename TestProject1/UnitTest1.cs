@@ -3,14 +3,6 @@ using NUnit.Framework;
 [TestFixture]
 public class FermatFactorizationTests
 {
-    [Test]
-    public void TestFactorizationWithSmallPrimeProduct()
-    {
-        long numberToFactor = 5959; // 59 * 101
-        var factors = FermatFactorization.FermatFactor(numberToFactor);
-        Assert.AreEqual(59, factors.Item1);
-        Assert.AreEqual(101, factors.Item2);
-    }
 
     [Test]
     public void TestFactorizationWithProductOfTwoPrimes()
@@ -29,4 +21,14 @@ public class FermatFactorizationTests
         Assert.AreEqual(12, factors.Item1);
         Assert.AreEqual(12, factors.Item2);
     }
+
+    [Test]
+    public void TestFactorizationWithSquareOfPrime()
+    {
+        long numberToFactor = 49; // 7 * 7
+        var factors = FermatFactorization.FermatFactor(numberToFactor);
+        Assert.AreEqual(7, factors.Item1);
+        Assert.AreEqual(7, factors.Item2);
+    }
+
 }
