@@ -1,6 +1,6 @@
 ﻿using System;
 
-class FermatFactorization
+public class FermatFactorization
 {
     // является ли число полным квадратом
     static bool IsPerfectSquare(long number)
@@ -10,7 +10,7 @@ class FermatFactorization
     }
 
     // Реализация метода факторизации Ферма
-    static (long, long) FermatFactor(long N)
+    public static (long, long) FermatFactor(long N)
     {
         long x = (long)Math.Ceiling(Math.Sqrt(N));
         long y2;
@@ -34,5 +34,4 @@ class FermatFactorization
         Console.WriteLine($"Факторы числа {numberToFactor} равны {factors.Item1} и {factors.Item2}.");
     }
 }
-
 
