@@ -34,3 +34,6 @@ class FermatFactorization
         Console.WriteLine($"Факторы числа {numberToFactor} равны {factors.Item1} и {factors.Item2}.");
     }
 }
+
+1234567
+problem
