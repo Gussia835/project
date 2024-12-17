@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DGsMMZDExwlvlTuYsx2Xvto+Kne60T0yyAE9AUmhwB07mD6P97gV4sycgSoAVMezgpo8frXe7vIbOvFZZHmXyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dimc\\Desktop\\Project\\Corn\\Corn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dimc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Dimc\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Dimc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Dimc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
