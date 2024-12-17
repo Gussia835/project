@@ -35,5 +35,4 @@ class FermatFactorization
     }
 }
 
-1234567
-problem
+
